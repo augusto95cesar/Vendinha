@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "3Br7OxlM+WEObOKJ+DQLX92Dnwyy8Wu/Hu3T7tdBjDgZTQhhZb4MXG/CertLc7PhG/xCiOjJEwh16Lqtg/AL9w==",
+  "success": true,
+  "projectFilePath": "D:\\www\\Desafios\\Vendinha\\api.for.vendinhas\\Vendinhas.Api\\Vendinhas.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Augusto\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Augusto\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Augusto\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Augusto\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Augusto\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Augusto\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
