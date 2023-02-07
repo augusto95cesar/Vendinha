@@ -1,0 +1,2 @@
+# vendinha-plena
+.Net Core
