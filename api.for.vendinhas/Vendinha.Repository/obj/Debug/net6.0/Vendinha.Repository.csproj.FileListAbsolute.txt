@@ -1,0 +1,17 @@
+D:\www\Desafios\Vendinha\api.for.vendinhas\Vendinha.Repository\bin\Debug\net6.0\Vendinha.Repository.deps.json
+D:\www\Desafios\Vendinha\api.for.vendinhas\Vendinha.Repository\bin\Debug\net6.0\Vendinha.Repository.runtimeconfig.json
+D:\www\Desafios\Vendinha\api.for.vendinhas\Vendinha.Repository\bin\Debug\net6.0\Vendinha.Repository.dll
+D:\www\Desafios\Vendinha\api.for.vendinhas\Vendinha.Repository\bin\Debug\net6.0\Vendinha.Repository.pdb
+D:\www\Desafios\Vendinha\api.for.vendinhas\Vendinha.Repository\bin\Debug\net6.0\Vendinha.Domain.dll
+D:\www\Desafios\Vendinha\api.for.vendinhas\Vendinha.Repository\bin\Debug\net6.0\Vendinha.Domain.pdb
+D:\www\Desafios\Vendinha\api.for.vendinhas\Vendinha.Repository\obj\Debug\net6.0\Vendinha.Repository.csproj.AssemblyReference.cache
+D:\www\Desafios\Vendinha\api.for.vendinhas\Vendinha.Repository\obj\Debug\net6.0\Vendinha.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\www\Desafios\Vendinha\api.for.vendinhas\Vendinha.Repository\obj\Debug\net6.0\Vendinha.Repository.AssemblyInfoInputs.cache
+D:\www\Desafios\Vendinha\api.for.vendinhas\Vendinha.Repository\obj\Debug\net6.0\Vendinha.Repository.AssemblyInfo.cs
+D:\www\Desafios\Vendinha\api.for.vendinhas\Vendinha.Repository\obj\Debug\net6.0\Vendinha.Repository.csproj.CoreCompileInputs.cache
+D:\www\Desafios\Vendinha\api.for.vendinhas\Vendinha.Repository\obj\Debug\net6.0\Vendinha.Repository.csproj.CopyComplete
+D:\www\Desafios\Vendinha\api.for.vendinhas\Vendinha.Repository\obj\Debug\net6.0\Vendinha.Repository.dll
+D:\www\Desafios\Vendinha\api.for.vendinhas\Vendinha.Repository\obj\Debug\net6.0\refint\Vendinha.Repository.dll
+D:\www\Desafios\Vendinha\api.for.vendinhas\Vendinha.Repository\obj\Debug\net6.0\Vendinha.Repository.pdb
+D:\www\Desafios\Vendinha\api.for.vendinhas\Vendinha.Repository\obj\Debug\net6.0\Vendinha.Repository.genruntimeconfig.cache
+D:\www\Desafios\Vendinha\api.for.vendinhas\Vendinha.Repository\obj\Debug\net6.0\ref\Vendinha.Repository.dll

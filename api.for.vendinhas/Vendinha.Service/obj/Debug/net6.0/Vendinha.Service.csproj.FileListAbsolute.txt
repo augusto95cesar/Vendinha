@@ -1,0 +1,12 @@
+D:\www\Desafios\Vendinha\api.for.vendinhas\Vendinha.Service\bin\Debug\net6.0\Vendinha.Service.deps.json
+D:\www\Desafios\Vendinha\api.for.vendinhas\Vendinha.Service\bin\Debug\net6.0\Vendinha.Service.dll
+D:\www\Desafios\Vendinha\api.for.vendinhas\Vendinha.Service\bin\Debug\net6.0\Vendinha.Service.pdb
+D:\www\Desafios\Vendinha\api.for.vendinhas\Vendinha.Service\obj\Debug\net6.0\Vendinha.Service.csproj.AssemblyReference.cache
+D:\www\Desafios\Vendinha\api.for.vendinhas\Vendinha.Service\obj\Debug\net6.0\Vendinha.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\www\Desafios\Vendinha\api.for.vendinhas\Vendinha.Service\obj\Debug\net6.0\Vendinha.Service.AssemblyInfoInputs.cache
+D:\www\Desafios\Vendinha\api.for.vendinhas\Vendinha.Service\obj\Debug\net6.0\Vendinha.Service.AssemblyInfo.cs
+D:\www\Desafios\Vendinha\api.for.vendinhas\Vendinha.Service\obj\Debug\net6.0\Vendinha.Service.csproj.CoreCompileInputs.cache
+D:\www\Desafios\Vendinha\api.for.vendinhas\Vendinha.Service\obj\Debug\net6.0\Vendinha.Service.dll
+D:\www\Desafios\Vendinha\api.for.vendinhas\Vendinha.Service\obj\Debug\net6.0\refint\Vendinha.Service.dll
+D:\www\Desafios\Vendinha\api.for.vendinhas\Vendinha.Service\obj\Debug\net6.0\Vendinha.Service.pdb
+D:\www\Desafios\Vendinha\api.for.vendinhas\Vendinha.Service\obj\Debug\net6.0\ref\Vendinha.Service.dll

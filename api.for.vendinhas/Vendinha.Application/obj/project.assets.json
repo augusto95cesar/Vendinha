@@ -1,0 +1,110 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Vendinha.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Vendinha.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Vendinha.Domain.dll": {}
+        }
+      },
+      "Vendinha.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Vendinha.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Vendinha.Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vendinha.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Vendinha.Domain/Vendinha.Domain.csproj",
+      "msbuildProject": "../Vendinha.Domain/Vendinha.Domain.csproj"
+    },
+    "Vendinha.Service/1.0.0": {
+      "type": "project",
+      "path": "../Vendinha.Service/Vendinha.Service.csproj",
+      "msbuildProject": "../Vendinha.Service/Vendinha.Service.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Vendinha.Domain >= 1.0.0",
+      "Vendinha.Service >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Augusto\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\www\\Desafios\\Vendinha\\api.for.vendinhas\\Vendinha.Application\\Vendinha.Application.csproj",
+      "projectName": "Vendinha.Application",
+      "projectPath": "D:\\www\\Desafios\\Vendinha\\api.for.vendinhas\\Vendinha.Application\\Vendinha.Application.csproj",
+      "packagesPath": "C:\\Users\\Augusto\\.nuget\\packages\\",
+      "outputPath": "D:\\www\\Desafios\\Vendinha\\api.for.vendinhas\\Vendinha.Application\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Augusto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "D:\\www\\Desafios\\Vendinha\\api.for.vendinhas\\Vendinha.Domain\\Vendinha.Domain.csproj": {
+              "projectPath": "D:\\www\\Desafios\\Vendinha\\api.for.vendinhas\\Vendinha.Domain\\Vendinha.Domain.csproj"
+            },
+            "D:\\www\\Desafios\\Vendinha\\api.for.vendinhas\\Vendinha.Service\\Vendinha.Service.csproj": {
+              "projectPath": "D:\\www\\Desafios\\Vendinha\\api.for.vendinhas\\Vendinha.Service\\Vendinha.Service.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
