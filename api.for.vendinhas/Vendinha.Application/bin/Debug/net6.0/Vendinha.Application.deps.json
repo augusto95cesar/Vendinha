@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Vendinha.Application/1.0.0": {
+        "dependencies": {
+          "Vendinha.Domain": "1.0.0",
+          "Vendinha.Service": "1.0.0"
+        },
+        "runtime": {
+          "Vendinha.Application.dll": {}
+        }
+      },
+      "Vendinha.Domain/1.0.0": {
+        "runtime": {
+          "Vendinha.Domain.dll": {}
+        }
+      },
+      "Vendinha.Service/1.0.0": {
+        "runtime": {
+          "Vendinha.Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vendinha.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Vendinha.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Vendinha.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
